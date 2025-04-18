@@ -1,0 +1,4 @@
+[ballerina.config]
+
+EXTERNAL_IDP_SERVICE_API = "https://externalidpmockservice.free.beeceptor.com";
+ASGARDEO_TOKEN = "kjnfdjkdnfc";

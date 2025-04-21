@@ -13,7 +13,7 @@ const string EXTERNAL_IDP_SERVICE_CREATE_USER_ENDPOINT = "/pole/Users/Local";
 const string EXTERNAL_IDP_SERVICE_GET_USER_CLAIMS_ENDPOINT = "/pole/users/claims";
 
 //Asgardeo Configurations
-configurable string ASGARDEO_TOKEN =  "o2379836487365834756348756438765438"; 
+configurable string ASGARDEO_TOKEN =  "<token>"; 
 const string ASGARDEO_HOST = "https://dev.api.asgardeo.io/t/customer1org1";
 const int RETRY_COUNT = 3;
 const decimal WAIT_TIME = 0.5;
